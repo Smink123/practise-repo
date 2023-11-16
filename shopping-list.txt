@@ -1,10 +1,12 @@
-To buy:
+Non-priority list:
 - Hair dye
-- Storage boxes
-- Mouse
 - Plant
 - Headphones
 - Mouse mat
-- Lamp
 - Computer screen
 - Desk chair
+
+Priority list
+- Lamp
+- Mouse
+- Storage boxes
